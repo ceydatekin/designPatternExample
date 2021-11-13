@@ -1,0 +1,16 @@
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.exe
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.deps.json
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.runtimeconfig.json
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.runtimeconfig.dev.json
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.dll
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\ref\observerpattern.dll
+C:\Users\ceyda\Desktop\mosk\observerpattern\bin\Debug\net5.0\observerpattern.pdb
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.AssemblyInfoInputs.cache
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.AssemblyInfo.cs
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.dll
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\ref\observerpattern.dll
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.pdb
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.genruntimeconfig.cache
+C:\Users\ceyda\Desktop\mosk\observerpattern\obj\Debug\net5.0\observerpattern.csproj.AssemblyReference.cache

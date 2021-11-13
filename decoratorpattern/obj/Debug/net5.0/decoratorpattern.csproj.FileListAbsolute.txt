@@ -1,0 +1,16 @@
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.exe
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.deps.json
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.runtimeconfig.json
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.runtimeconfig.dev.json
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.dll
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\ref\decoratorpattern.dll
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\bin\Debug\net5.0\decoratorpattern.pdb
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.AssemblyInfoInputs.cache
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.AssemblyInfo.cs
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.dll
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\ref\decoratorpattern.dll
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.pdb
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.genruntimeconfig.cache
+C:\Users\ceyda\Desktop\mosk\decoratorpattern\obj\Debug\net5.0\decoratorpattern.csproj.AssemblyReference.cache
